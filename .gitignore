@@ -11,7 +11,9 @@ venv/
 
 # Ignore all images
 *.png
+*.PNG
 *.jpg
+*.JPG
 *.jpeg
 *.gif
 *.bmp
