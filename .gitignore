@@ -20,3 +20,6 @@ venv/
 *.tiff
 *.webp
 *.svg
+
+# Ignore mac files
+.DS_Store
